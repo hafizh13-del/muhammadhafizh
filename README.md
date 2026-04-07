@@ -1,8 +1,6 @@
-# Hello World👋​ !!! Mein Name Ist Hafizh!!!
+## Profile
 
-![Muhammad Hafizh](image/Gemini_Generated_Image_4sjfk04sjfk04sjf.png)
-
-# Muhammad Hafizh
+![Muhammad Hafizh](image/github-header-banner.png)
 
 - 🧑‍💼 Saya seorang freelancer
 - 💻 Berbasis [**Laravel**](https://laravel.com)
