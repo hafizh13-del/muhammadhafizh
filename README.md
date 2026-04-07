@@ -2,8 +2,10 @@
 
 ![Muhammad Hafizh](image/Gemini_Generated_Image_4sjfk04sjfk04sjf.png)
 
--🧑‍💼 Saya seorang freelancer
--💻 Berbasis [**laravel**](https://laravel.com)
--😁😁😁
+# Muhammad Hafizh
+
+- 🧑‍💼 Saya seorang freelancer
+- 💻 Berbasis Laravel
+- 😁😁😁
 
 ![happy birthday](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmh1MmI5bWI0eWYzemhoajFlNGpjazVidDVoYmdiYzg3ajNnY3U1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Js7k1D3Jenq3MUp65Z/giphy.gif)
