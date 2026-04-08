@@ -12,6 +12,10 @@
 - Membuat laporan harian, mingguan, bulanan, dan tahunan
 - Membuat visualisasi data secara akurat
 - Dapat merangkum data agar lebih cepat di proses
+- Membuat basic CRUD dengan laravel
+- Integrasi Database dengan SQL
+- Penggunaan Domain Hosting
+- Membuat role customer pada honey-store (BETA)
 
 ###### **Skills**
 
