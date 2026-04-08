@@ -2,9 +2,16 @@
 
 ![Muhammad Hafizh](image/github-header-banner.png)
 
-- 🧑‍💼 Saya seorang freelancer
-- 💻 Berbasis [**Laravel**](https://laravel.com)
-- 😁😁😁
+- 🧑‍💼 Saya seorang **Data Analis**
+- 💻 Berbasis [**Laravel**](https://laravel.com) dan **Python**
+
+## Pengalaman
+
+- Mempunyai pengalaman pada bidang data selama **1 tahun** menggunakan Microsoft Excel
+- Terbiasa dalam mengolah data secara real-rime
+- Membuat laporan harian, mingguan, bulanan, dan tahunan
+- Membuat visualisasi data secara akurat
+- Dapat merangkum data agar lebih cepat di proses
 
 ###### **Skills**
 
