@@ -6,4 +6,13 @@
 - 💻 Berbasis [**Laravel**](https://laravel.com)
 - 😁😁😁
 
-![happy birthday](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmh1MmI5bWI0eWYzemhoajFlNGpjazVidDVoYmdiYzg3ajNnY3U1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Js7k1D3Jenq3MUp65Z/giphy.gif)
+###### **Skills**
+
+- <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white{BadgeURLHere}" />
+- <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+- <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+- <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+- <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+- <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+- <img src ="https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white">
+- <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
